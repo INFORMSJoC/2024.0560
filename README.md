@@ -3,7 +3,7 @@
 # Binary Quantum Control Optimization with Uncertain Hamiltonians
 
 This project is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.txt).
 
 The software and data in this repository are associated with the paper 
 [Binary Quantum Control Optimization with Uncertain Hamiltonians](https://doi.org/10.1287/ijoc.2024.0560) 
