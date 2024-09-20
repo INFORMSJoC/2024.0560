@@ -21,7 +21,7 @@ https://doi.org/10.1287/ijoc.2024.0560.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{Huang2024,
+@misc{Fei2024,
   author =        {Fei, Xinyu and Brady, Lucas T and Larson, Jeffrey and Leyffer, Sven and Shen, Siqian},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Binary Quantum Control Optimization with Uncertain Hamiltonians}},
