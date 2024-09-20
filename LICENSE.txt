@@ -1,4 +1,4 @@
-Copyright 2024, Xinyu Fei
+Copyright 2024, Xinyu Fei, Lucas T. Brady
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
